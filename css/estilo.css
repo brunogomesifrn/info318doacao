@@ -1,3 +1,24 @@
 p{
 	text-align: center;
 }
+.animais img{
+	margin: 50px;
+}
+
+.animais p{
+	text-align: center;
+}
+
+.tipo{
+	text-align: center;
+	margin-top: -60px;
+	margin-bottom: 20px;
+}
+
+.corlinha{
+	background-color: blue;
+}
+
+.azul{
+	background-color: blue;
+}

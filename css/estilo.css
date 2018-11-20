@@ -1,7 +1,6 @@
 p{
 	text-align: center;
 }
-<<<<<<< HEAD
 .login{
 	padding: 30px;
 }
@@ -9,16 +8,12 @@ p{
 	text-align: center;
 }
 .button{
-	
-=======
-<<<<<<< HEAD
-	.fundoT{
 background-image: url(fundo.png);
 background-repeat: no-repeat;
 -moz-background-size: 100% 100%;
 -webkit-background-size: 100% 100%;
 background-size: 100% 100%;
-=======
+}
 .animais img{
 	margin: 50px;
 }
@@ -39,10 +34,14 @@ background-size: 100% 100%;
 
 .azul{
 	background-color: blue;
->>>>>>> 01b515504e10f7654ef5fda11bae11208c390864
->>>>>>> 89e4c9421de7673716dab4e13ebaf1acffcd7b6c
+
 }
 
 .h2{
 	text-align: center;
+
+}
+.botao{
+	margin-top: 20px;
+	width: 200px;
 }

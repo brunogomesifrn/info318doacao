@@ -1,14 +1,14 @@
 p{
 	text-align: center;
 }
-<<<<<<< HEAD
+
 	.fundoT{
 background-image: url(fundo.png);
 background-repeat: no-repeat;
 -moz-background-size: 100% 100%;
 -webkit-background-size: 100% 100%;
 background-size: 100% 100%;
-=======
+
 .animais img{
 	margin: 50px;
 }
@@ -29,5 +29,7 @@ background-size: 100% 100%;
 
 .azul{
 	background-color: blue;
->>>>>>> 01b515504e10f7654ef5fda11bae11208c390864
+}
+.negrito {
+	font-weight
 }

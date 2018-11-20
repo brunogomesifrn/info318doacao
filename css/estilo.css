@@ -1,28 +1,20 @@
 p{
 	text-align: center;
 }
-<<<<<<< HEAD
 
-	.fundoT{
-=======
 .login{
 	padding: 30px;
 }
 .center h2{
 	text-align: center;
 }
-.button{
->>>>>>> 85c85378a8a2a044fe75ba557ad223798fa34284
+.fundoT{
 background-image: url(fundo.png);
 background-repeat: no-repeat;
 -moz-background-size: 100% 100%;
 -webkit-background-size: 100% 100%;
 background-size: 100% 100%;
-<<<<<<< HEAD
-
-=======
 }
->>>>>>> 85c85378a8a2a044fe75ba557ad223798fa34284
 .animais img{
 	margin: 50px;
 }
@@ -43,12 +35,9 @@ background-size: 100% 100%;
 
 .azul{
 	background-color: blue;
-<<<<<<< HEAD
 }
 .negrito {
 	font-weight
-=======
-
 }
 
 .h2{
@@ -58,11 +47,7 @@ background-size: 100% 100%;
 .botao{
 	margin-top: 20px;
 	width: 200px;
-<<<<<<< HEAD
 }
 footer{
 	background-color: #FF6347;
-=======
->>>>>>> 85c85378a8a2a044fe75ba557ad223798fa34284
->>>>>>> 1ba94b917b2f1a06d37a98da13847a7a2a6e04ab
 }

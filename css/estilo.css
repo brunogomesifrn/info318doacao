@@ -1,14 +1,28 @@
 p{
 	text-align: center;
 }
+<<<<<<< HEAD
 
 	.fundoT{
+=======
+.login{
+	padding: 30px;
+}
+.center h2{
+	text-align: center;
+}
+.button{
+>>>>>>> 85c85378a8a2a044fe75ba557ad223798fa34284
 background-image: url(fundo.png);
 background-repeat: no-repeat;
 -moz-background-size: 100% 100%;
 -webkit-background-size: 100% 100%;
 background-size: 100% 100%;
+<<<<<<< HEAD
 
+=======
+}
+>>>>>>> 85c85378a8a2a044fe75ba557ad223798fa34284
 .animais img{
 	margin: 50px;
 }
@@ -29,7 +43,20 @@ background-size: 100% 100%;
 
 .azul{
 	background-color: blue;
+<<<<<<< HEAD
 }
 .negrito {
 	font-weight
+=======
+
+}
+
+.h2{
+	text-align: center;
+
+}
+.botao{
+	margin-top: 20px;
+	width: 200px;
+>>>>>>> 85c85378a8a2a044fe75ba557ad223798fa34284
 }

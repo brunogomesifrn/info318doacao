@@ -1,7 +1,6 @@
 p{
 	text-align: center;
 }
-<<<<<<< HEAD
 .login{
 	padding: 30px;
 }
@@ -9,16 +8,12 @@ p{
 	text-align: center;
 }
 .button{
-	
-=======
-<<<<<<< HEAD
-	.fundoT{
 background-image: url(fundo.png);
 background-repeat: no-repeat;
 -moz-background-size: 100% 100%;
 -webkit-background-size: 100% 100%;
 background-size: 100% 100%;
-=======
+}
 .animais img{
 	margin: 50px;
 }
@@ -39,4 +34,8 @@ background-size: 100% 100%;
 
 .azul{
 	background-color: blue;
+}
+.botao{
+	margin-top: 20px;
+	width: 200px;
 }

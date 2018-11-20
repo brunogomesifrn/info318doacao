@@ -37,5 +37,8 @@ background-size: 100% 100%;
 }
 .botao{
 	margin-top: 20px;
-	width: 200px;
+	height: 100px;
+}
+.center a:hover{
+	text-decoration: none;
 }

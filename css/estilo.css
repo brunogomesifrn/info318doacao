@@ -1,13 +1,14 @@
 p{
 	text-align: center;
 }
+
 .login{
 	padding: 30px;
 }
 .center h2{
 	text-align: center;
 }
-.button{
+.fundoT{
 background-image: url(fundo.png);
 background-repeat: no-repeat;
 -moz-background-size: 100% 100%;
@@ -34,6 +35,20 @@ background-size: 100% 100%;
 
 .azul{
 	background-color: blue;
+
+}
+.negrito {
+	font-weight
+
+=======
+}
+.negrito {
+	font-weight
+}
+
+.h2{
+	text-align: center;
+
 }
 .botao{
 	margin-top: 20px;
@@ -41,4 +56,19 @@ background-size: 100% 100%;
 }
 .center a:hover{
 	text-decoration: none;
+	width: 200px;
+}
+
+
+
+.fundolink{
+	color: white;
+	font-weight: 
+}
+footer{
+	background-color:rgba(255,255,0,0.4);
+}
+
+.centro{
+	text-align: center;
 }

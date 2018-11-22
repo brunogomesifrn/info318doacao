@@ -67,7 +67,7 @@ background-size: 100% 100%;
 }
 
 footer{
-	background-color:rgba(255,255,0,0.4);
+	background-color:rgb(100,100,255,0.1);
 }
 
 .centro p{
@@ -88,12 +88,28 @@ footer{
 	padding: 20px;
 }
 .alinhar{
-	margin-left: 40%;
+	margin-left: 38%;
 }
 body{
 	overflow-x: hidden;
 }
 .imagens img{
 	height: 200px;
-	width: 400px;
+	width: 100%;
+}
+.imagens p{
+	color: rgb(57,181,74);
+}
+.imagens div:hover{
+	border: 1px solid blue;
+	padding: 25px;
+	display: block;
+}
+.imagens button{
+	opacity: 0;
+	display: block;
+}
+.imagens div:hover button{
+	opacity: 1;
+	margin: 0 auto;
 }

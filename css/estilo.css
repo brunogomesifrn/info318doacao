@@ -14,10 +14,7 @@ background-repeat: no-repeat;
 -moz-background-size: 100% 100%;
 -webkit-background-size: 100% 100%;
 background-size: 100% 100%;
-<<<<<<< HEAD
 
-=======
->>>>>>> 2eaeaf60aa5960c25f6e492ef52640760d679018
 }
 .animais img{
 	margin: 50px;
@@ -39,17 +36,18 @@ background-size: 100% 100%;
 
 .azul{
 	background-color: blue;
-<<<<<<< HEAD
+
+
+}
+.negrito {
+
+	font-weight
+
 
 }
 .negrito {
 	font-weight
 
-=======
-}
-.negrito {
-	font-weight
->>>>>>> 2eaeaf60aa5960c25f6e492ef52640760d679018
 }
 
 .h2{
@@ -60,19 +58,22 @@ background-size: 100% 100%;
 	margin-top: 20px;
 	width: 200px;
 }
-<<<<<<< HEAD
 
 
 
 .fundolink{
 	color: white;
 	font-weight: 
-=======
+}
+
 footer{
 	background-color:rgba(255,255,0,0.4);
 }
 
 .centro{
 	text-align: center;
->>>>>>> 2eaeaf60aa5960c25f6e492ef52640760d679018
+
+}
+.cor{
+	background: #F4A460
 }

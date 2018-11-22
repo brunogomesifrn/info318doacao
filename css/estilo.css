@@ -93,3 +93,7 @@ footer{
 body{
 	overflow-x: hidden;
 }
+.imagens img{
+	height: 200px;
+	width: 400px;
+}

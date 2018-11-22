@@ -40,7 +40,6 @@ background-size: 100% 100%;
 .negrito {
 	font-weight
 
-=======
 }
 .negrito {
 	font-weight
@@ -71,4 +70,7 @@ footer{
 
 .centro{
 	text-align: center;
+}
+.centro div{
+	margin: 0 auto;
 }

@@ -81,6 +81,15 @@ footer{
 	background: #F4A460;
 }
 
-li{
+footer li{
 	list-style-type:disc;
+}
+footer{
+	padding: 20px;
+}
+.alinhar{
+	margin-left: 40%;
+}
+body{
+	overflow-x: hidden;
 }

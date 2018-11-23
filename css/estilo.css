@@ -113,8 +113,19 @@ body{
 	margin: 0 auto;
 }
 
-<<<<<<< HEAD
-.centralizar{
+.centralizar, .centralizar h5,p{
 	text-align: center;
 }
+.racas img{
+	height: 150px;
+	width: 100%;
+	margin: 20px;
+}
 
+.esquerda{
+	text-align: left;
+}
+
+.direita{
+	text-align: right;
+}

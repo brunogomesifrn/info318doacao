@@ -35,24 +35,29 @@ background-size: 100% 100%;
 
 .azul{
 	background-color: blue;
+<<<<<<< HEAD
 
 
-
-}
-.negrito {
-
-	font-weight
-
-
-}
-.negrito {
-	font-weight
 
 =======
+>>>>>>> 5ccd5f4413438140c142f06b30bfa3e5d114434d
+}
+.negrito {
+
+	font-weight
+
+
 }
 .negrito {
 	font-weight
 
+}
+.negrito {
+	font-weight
+<<<<<<< HEAD
+
+=======
+>>>>>>> 5ccd5f4413438140c142f06b30bfa3e5d114434d
 }
 
 .h2{
@@ -72,20 +77,62 @@ background-size: 100% 100%;
 }
 
 footer{
-	background-color:rgba(255,255,0,0.4);
+	background-color:rgb(100,100,255,0.1);
 }
 
 .centro p{
 	text-align: center;
+<<<<<<< HEAD
 
 
 }
 .cor{
 	background: #F4A460
 
+=======
+}
+.centro div{
+	margin: 0 auto;
+
+}
+.cor{
+	background: #F4A460;
+>>>>>>> 5ccd5f4413438140c142f06b30bfa3e5d114434d
 }
 
-li{
+footer li{
 	list-style-type:disc;
+<<<<<<< HEAD
 
+=======
+}
+footer{
+	padding: 20px;
+}
+.alinhar{
+	margin-left: 38%;
+}
+body{
+	overflow-x: hidden;
+}
+.imagens img{
+	height: 200px;
+	width: 100%;
+}
+.imagens p{
+	color: rgb(57,181,74);
+}
+.imagens div:hover{
+	border: 1px solid blue;
+	padding: 25px;
+	display: block;
+}
+.imagens button{
+	opacity: 0;
+	display: block;
+}
+.imagens div:hover button{
+	opacity: 1;
+	margin: 0 auto;
+>>>>>>> 5ccd5f4413438140c142f06b30bfa3e5d114434d
 }

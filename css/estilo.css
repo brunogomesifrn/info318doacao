@@ -35,19 +35,12 @@ background-size: 100% 100%;
 
 .azul{
 	background-color: blue;
-}
-.negrito {
-
-	font-weight
 
 
 }
 .negrito {
 	font-weight
 
-}
-.negrito {
-	font-weight
 }
 
 .h2{
@@ -72,6 +65,11 @@ footer{
 
 .centro p{
 	text-align: center;
+
+}
+.cor{
+	background: #F4A460
+
 }
 .centro div{
 	margin: 0 auto;
@@ -79,10 +77,12 @@ footer{
 }
 .cor{
 	background: #F4A460;
+
 }
 
 footer li{
 	list-style-type:disc;
+
 }
 footer{
 	padding: 20px;

@@ -9,8 +9,7 @@ p{
 	text-align: center;
 }
 .fundoT{
-background-image: url(fundo.png);
-background-repeat: no-repeat;
+background-image: url(fundoo.jpg);
 -moz-background-size: 100% 100%;
 -webkit-background-size: 100% 100%;
 background-size: 100% 100%;
@@ -114,4 +113,10 @@ body{
 	margin: 0 auto;
 }
 
+<<<<<<< HEAD
+.centralizar{
+	text-align: center;
+}
+=======
  
+>>>>>>> 9ca5ec193a8065238d8c4eee3965a33b386ab704

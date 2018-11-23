@@ -35,29 +35,12 @@ background-size: 100% 100%;
 
 .azul{
 	background-color: blue;
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> 5ccd5f4413438140c142f06b30bfa3e5d114434d
-}
-.negrito {
-
-	font-weight
 
 
 }
 .negrito {
 	font-weight
 
-}
-.negrito {
-	font-weight
-<<<<<<< HEAD
-
-=======
->>>>>>> 5ccd5f4413438140c142f06b30bfa3e5d114434d
 }
 
 .h2{
@@ -82,14 +65,11 @@ footer{
 
 .centro p{
 	text-align: center;
-<<<<<<< HEAD
-
 
 }
 .cor{
 	background: #F4A460
 
-=======
 }
 .centro div{
 	margin: 0 auto;
@@ -97,14 +77,12 @@ footer{
 }
 .cor{
 	background: #F4A460;
->>>>>>> 5ccd5f4413438140c142f06b30bfa3e5d114434d
+
 }
 
 footer li{
 	list-style-type:disc;
-<<<<<<< HEAD
 
-=======
 }
 footer{
 	padding: 20px;
@@ -134,5 +112,4 @@ body{
 .imagens div:hover button{
 	opacity: 1;
 	margin: 0 auto;
->>>>>>> 5ccd5f4413438140c142f06b30bfa3e5d114434d
 }

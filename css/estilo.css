@@ -43,8 +43,11 @@ p{
 .botao{
 	margin-top: 20px;
 	width: 200px;
+	height: 190px;
 }
-
+.botao-link:hover{
+	text-decoration: none;
+}
 .fundolink{
 	color: white;
 	font-weight: 

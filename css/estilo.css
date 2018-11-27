@@ -109,16 +109,19 @@ body{
 	text-align: center;
 }
 .racas img{
-	height: 150px;
-	width: 100%;
+	height: 80px;
 	margin: 20px;
-		padding: 2px;
+	padding: 2px;
+	display: inline;
+	width: 35%;
 }
 .racas p{
 	text-align: center;
 	text-indent: 20px;
 	font-size: 20px;
 	font-weight: bold;
+	display: inline;
+	margin: 35px;
 }
 .esquerda{
 	text-align: left;

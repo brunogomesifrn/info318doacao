@@ -58,10 +58,6 @@ background-size: 100% 100%;
 	font-weight: 
 }
 
-footer{
-	background-color:rgba(255,255,0,0.4);
-}
-
 .centro p{
 	text-align: center;
 
@@ -84,7 +80,8 @@ footer li{
 
 }
 footer{
-	padding: 20px;
+	padding: 40px;
+	background-color: #778899;
 }
 .alinhar{
 	margin-left: 38%;

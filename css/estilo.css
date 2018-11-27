@@ -63,9 +63,10 @@ p{
 }
 .centro div{
 	margin: 0 auto;
-
 }
-
+.center{
+	margin-top: 20px;
+}
 footer li{
 	list-style-type:disc;
 

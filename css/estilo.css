@@ -8,12 +8,6 @@ p{
 .center h2{
 	text-align: center;
 }
-.fundoT{
-background-image: url(fundoo.jpg);
--moz-background-size: 100% 100%;
--webkit-background-size: 100% 100%;
-background-size: 100% 100%;
-}
 .animais img{
 	margin: 50px;
 }
@@ -51,8 +45,6 @@ background-size: 100% 100%;
 	width: 200px;
 }
 
-
-
 .fundolink{
 	color: white;
 	font-weight: 
@@ -63,15 +55,11 @@ background-size: 100% 100%;
 
 }
 .cor{
-	background: #F4A460
+	background: #778899;
 
 }
 .centro div{
 	margin: 0 auto;
-
-}
-.cor{
-	background: #9ACD32;
 
 }
 
@@ -92,6 +80,7 @@ body{
 .imagens img{
 	height: 200px;
 	width: 100%;
+
 }
 .imagens p{
 	color: #778899;
@@ -100,6 +89,8 @@ body{
 	border: 1px solid blue;
 	padding: 25px;
 	display: block;
+	margin-bottom: 10px;
+	transition: 1s;
 }
 .imagens button{
 	opacity: 0;
@@ -134,12 +125,17 @@ body{
 section{
 	background: #778899;
 	padding: 20px 50px 20px 20px;
+	margin-bottom: 15px;
 }
 section img:hover{
 	border: 2px solid white;
 }
-
-
 .novacor{
 color: black;
+}
+.ajuste{
+	margin: 30px;
+}
+.tab-pane, .nav-link{
+	transition: 2s;
 }

@@ -143,3 +143,8 @@ color: black;
 .tab-pane, .nav-link{
 	transition: 2s;
 }
+.slide img{
+	width: 100%;
+	height: 500px;
+	padding-right: 60px;
+}

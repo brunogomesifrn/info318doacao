@@ -109,15 +109,24 @@ body{
 	text-align: center;
 }
 .racas img{
+<<<<<<< HEAD
 	height: 150px;
 	width: 200px;
+=======
+	height: 80px;
+>>>>>>> fca8bdefa5309a82004b3bc600017685956f81c8
 	margin: 20px;
+	padding: 2px;
+	display: inline;
+	width: 35%;
 }
 .racas p{
 	text-align: center;
 	text-indent: 20px;
 	font-size: 20px;
 	font-weight: bold;
+	display: inline;
+	margin: 35px;
 }
 .esquerda{
 	text-align: left;
@@ -132,7 +141,7 @@ section{
 	margin-bottom: 15px;
 }
 section img:hover{
-	border: 2px solid white;
+	border: 1px solid white;
 }
 .novacor{
 color: black;
@@ -147,4 +156,8 @@ color: black;
 	width: 100%;
 	height: 500px;
 	padding: 20px;
+}
+.logo{
+	height: 100px;
+	width: 180px;
 }
